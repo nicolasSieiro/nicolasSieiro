@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">A passionate IOS developer from Argentina</h3>
 
-- 🔭 I’m currently working on **personal projects**
 
 - 🤝 I’m looking for a new job **as a IOS developer**
+
+
+- 🔭 I’m currently working on **personal projects**
 
 - 👨‍💻 I’m currently learning **Clean architecture, SOLID patterns and advanced Swift 
 development**
